@@ -1,0 +1,6 @@
+Esto es una nueva línea......y esto otra, pero como no he utilizado un salto de línea el texto no se separaAcuérdate siempre de añadir un salto al final
+Y así el resultado será el esperado
+### VARIAS LÍNEAS ###
+Primera línea
+Segunda línea
+Tercera línea
